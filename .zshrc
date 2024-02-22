@@ -137,3 +137,5 @@ vv() {
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 alias nvimobsidian='cd ~/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/Obsidian\ Vault/ && nvim .'
+
+eval "$(starship init zsh)"
