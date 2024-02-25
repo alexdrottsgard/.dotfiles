@@ -13,10 +13,17 @@ The dotfiles are managed with stow.
 
 - [ ] Add a script to install all the packages I use
   - [ ] List all the packages I use...
+  - zsh-autosuggestions
+  - lazygit
+  - nvim
 
 - [ ] nvim config
 - [ ] uninstall oh-my-zsh
 - [ ] install oh-my-zsh ... thanks copilot 🤦
 - [ ] tmux config
+
+- [ ] Handle zsh plugins. Don't want to version control them but want to make sure they are installed.
+  - [ ] Maybe I should have a script that either sources them or installs them?
+  - zsh-autosuggestions
 
 ... to be continued
