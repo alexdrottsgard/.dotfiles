@@ -1,3 +1,6 @@
+source ~/zsh/zsh-aliases.zsh
+source ~/zsh-eletive/zsh-eletive.zsh
+
 alias eletive-dev='zsh ~/Code/eletive/dev-environment/tmux-dev-start.sh'
 
 vv() {
