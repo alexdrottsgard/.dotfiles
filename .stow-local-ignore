@@ -21,3 +21,5 @@ _darcs
 ^/LICENSE.*
 ^/COPYING
 .gitmodules
+
+.DS_Store
